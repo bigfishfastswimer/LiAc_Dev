@@ -18,7 +18,7 @@ mod 'puppetlabs-apache', '1.11.0'
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
-#mod 'ssh',
-#  :git => 'https://github.com/bigfishfastswimer/linuxacademy_puppet_ssh.git',
-#  :ref => 'production'
+mod 'ssh',
+  :git => 'https://github.com/bigfishfastswimer/LiAc_puppet_ssh.git',
+  :ref => 'production'
 
