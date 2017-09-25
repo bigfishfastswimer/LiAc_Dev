@@ -21,4 +21,7 @@ mod 'puppetlabs-apache', '1.11.0'
 mod 'ssh',
   :git => 'https://github.com/bigfishfastswimer/LiAc_puppet_ssh.git',
   :ref => 'production'
+mod 'ntp',
+  :git => 'https://github.com/bigfishfastswimer/LiAc_puppet_ntp.git',
+  :ref => 'production'
 
